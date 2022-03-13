@@ -23,7 +23,7 @@ now it is an obsolete version for my work environment, that's why I post it for 
 	-TOKEN: 5197953954:AAHUwSgYLHsMUkn_mM-603ok0N1ejKzRQec
 	- MODE: prod
 	- CHAT_ID_FORWARD: -1001522880537
-	- HEROKU_APP_NAME: (sasamsuui)
+	- HEROKU_APP_NAME: (sasamsuu)
 '''
 
 
