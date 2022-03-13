@@ -61,7 +61,7 @@ else:
 
 @run_async
 def start(update):
-	update.message.reply_text("This CC Scraper has been started successfully | Developed by [𝕭𝖔𝕲] Emilio")
+	update.message.reply_text("This CC Scraper has been started successfully | Developed by [Nima] Nima")
 
 @run_async
 def extrct(update, context):
