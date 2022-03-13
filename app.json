@@ -1,0 +1,39 @@
+{
+    "name": "sasamsuui",
+    "keywords": [
+        "cc",
+        "scrapper",
+        "good",
+        "Nima3",
+        "dingmovie"
+    ],
+    "repository": "https://github.com/Nima3/scrapp",
+    "website": "https://github.com/Nima3/scrapp",
+    "success_url": "@Nima1382_2002",
+    "env": {
+        "TOKEN": {
+            "description": "5197953954",
+            "required": "True",
+            "value": "AAHUwSgYLHsMUkn_mM-603ok0N1ejKzRQec"
+        },
+        "MODE": {
+            "description": "prod",
+            "required": "True"
+        },
+        "CHAT_ID_FORWARD": {
+            "description": "-1001522880537",
+            "required": "True"
+        },
+        "HEROKU_APP_NAME": {
+            "description": "sasamsuui",
+            "required": "True"
+        }
+    },
+    "stack": "container",
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "hobby"
+        }
+    }
+}
