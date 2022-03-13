@@ -1,5 +1,5 @@
-FROM Nima3/scrapp:main
-# FROM Nima3/mltb-oracle:main
+FROM nima3/scrapp:main
+# FROM nima3/mltb-oracle:main
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
