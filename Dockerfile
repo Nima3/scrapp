@@ -1,4 +1,4 @@
-FROM nima3/scrapp:main
+FROM ubuntu:20.04
 # FROM nima3/mltb-oracle:main
 
 WORKDIR /usr/src/app
