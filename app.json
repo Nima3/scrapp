@@ -25,7 +25,7 @@
             "required": "True"
         },
         "HEROKU_APP_NAME": {
-            "description": "sasamsuui",
+            "description": "sasamsuu",
             "required": "True"
         }
     },
@@ -33,7 +33,7 @@
     "formation": {
         "web": {
             "quantity": 1,
-            "size": "hobby"
+            "size": "free"
         }
     }
 }
