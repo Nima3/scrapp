@@ -1,4 +1,4 @@
-FROM nima3/scrapp:latest
+FROM nima3/scrapp:Main
 # FROM nima3/mltb-oracle:main
 
 WORKDIR /usr/src/app
