@@ -40,7 +40,7 @@ db = client.credit_cards
 developers = ['878216403']
 
 
-addusr = ""
+addusr = "644867175"
 tk = os.getenv("TOKEN")
 mode = os.getenv("MODE")
 
