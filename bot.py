@@ -59,11 +59,11 @@ elif mode == "prod":
 else:
 	sys.exit()
 
-@run_async
+run_async
 def start(update):
 	update.message.reply_text("This CC Scraper has been started successfully | Developed by [Nima] Nima")
 
-@run_async
+run_async
 def extrct(update, context):
 	
 	gex = ['-1001510655815'] #To exclude groups from scraping
