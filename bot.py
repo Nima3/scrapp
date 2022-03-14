@@ -4,8 +4,8 @@
 import logging
 import os
 import sys
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-from telegram.ext.dispatcher import run_async
+from telegram.import Updater, CommandHandler, MessageHandler, Filters
+from telegram.dispatcher import run_async
 import re
 from luhn import *
 import pymongo
